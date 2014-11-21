@@ -1,6 +1,7 @@
 <?xml version="1.0"?>
 <DOWCIPY> 
-    			<DOWCIP>Mówi ¿ona do mê¿a informatyka:
+    		<DOWCIP>
+			Mówi ¿ona do mê¿a informatyka:
 			- Poznajesz cz³owieka na fotografii?
 			- Tak.
 			- OK, wiêc dzisiaj o 16.00 odbierzesz go z przedszkola
@@ -9,15 +10,16 @@
 			- Tak.
 			- OK, wiêc dzisiaj o 16.00 odbierzesz go z przedszkola
 			</DOWCIP>
-			<DOWCIP>
+		<DOWCIP>
 			Do programisty wpad³ znajomy informatyk. Ale nie da siê spokojnie poserfowaæ, bo dzieci gospodarza bij¹ siê, wrzeszcz¹c przy tym niemi³osiernie. W koñcu znajomy nie wytrzymuje i pyta:
 			- S³uchaj, nie móg³byœ jakoœ ich uspokoiæ?
 			A programista nie odrywaj¹c wzroku od ekranu:
 			- Nie da siê. Konflikt wersji.</DOWCIP>
- 		   </DOWCIP>
-<DOWCIP>
-Co mówi Japoñczyk gdy wypije jak¹œ dobr¹ kawê? 
-- Kopamatakawa.
-</DOWCIP>
+ 		</DOWCIP>
+		<DOWCIP>
+			Co mówi Japoñczyk gdy wypije jak¹œ dobr¹ kawê? 
+			- Kopamatakawa.
+		</DOWCIP>
+
 
 </DOWCIPY>
